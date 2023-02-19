@@ -6,6 +6,7 @@ cat category_C_1,2,a.pdf.bz2.* > category_C_1,2,a.pdf.bz2
 
 The complete PDF files of all subcategories for the paper:
 
+```
 @article{Li:2020ign,
     author = "Li, Zhao and Wang, Yefan and Wu, Quan-feng",
     title = "{Categorization of two-loop Feynman diagrams in the $\mathcal O(\alpha^2)$ correction to $e^+e^- \rightarrow ZH$}",
@@ -19,3 +20,4 @@ The complete PDF files of all subcategories for the paper:
     pages = "053102",
     year = "2021"
 }
+```
